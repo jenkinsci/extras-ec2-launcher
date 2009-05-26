@@ -8,7 +8,7 @@
   </parent>
   
   <artifactId>ec2-launcher</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>Wizard for running Hudson on EC2</name>
 
   <build>
@@ -141,11 +141,5 @@
       <id>jets3t</id>
       <url>http://jets3t.s3.amazonaws.com/maven2</url>
     </repository>
-  </repositories>  
-
-  <scm>
-    <connection>scm:svn:https://guest@svn.dev.java.net/svn/hudson/tags/ec2-launcher-1.0</connection>
-    <developerConnection>scm:svn:https://svn.dev.java.net/svn/hudson/tags/ec2-launcher-1.0</developerConnection>
-    <url>https://hudson.dev.java.net/source/browse/hudson/tags/ec2-launcher-1.0</url>
-  </scm>
+  </repositories>
 </project>
