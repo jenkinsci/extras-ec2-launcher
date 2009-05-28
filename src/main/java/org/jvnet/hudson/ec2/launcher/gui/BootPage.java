@@ -9,8 +9,6 @@ import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.PipedInputStream;
-import java.io.PipedOutputStream;
 
 /**
  * Boot the instance and perform necessary initialization to start Hudson.
