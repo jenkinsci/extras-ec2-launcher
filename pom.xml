@@ -139,7 +139,7 @@
     <repository>
       <name>jets3t</name>
       <id>jets3t</id>
-      <url>http://jets3t.s3.amazonaws.com/maven2</url>
+      <url>https://jets3t.s3.amazonaws.com/maven2</url>
     </repository>
   </repositories>
 </project>
